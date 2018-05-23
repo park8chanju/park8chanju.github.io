@@ -1,0 +1,60 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.topimage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: none;
+    width: 40%;
+}
+#ourstory {
+    font-family: 'Cormorant', serif;
+    font-size: 28pt;
+    color: black;
+    text-align: center;
+    line-height: 0;
+    margin: 50px 0 40px
+}
+
+#hashtag {
+    font-family: 'Cormorant', serif;
+    font-size: 15pt;
+    color: black;
+    text-align: center;
+    line-height: 0;
+    margin: 20px 0 80px
+}
+
+br {
+    display: block;
+    margin: 20px 20px;
+    line-height: 3;
+}
+#text {
+    font-family: 'Cormorant', serif;
+    font-size: 12pt;
+    color: black;
+    text-align: center;
+    width: 
+    line-height: 0;
+    margin: 20px 0 100px
+}
+
+.middleimage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    margin-bottom: 50px;
+}
+
+.bottomimage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: none;
+    width: 40%;
+}

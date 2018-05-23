@@ -1,0 +1,114 @@
+/*#landingpage {
+    background-image: url(../images/one.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden; 
+}
+
+*/
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.topimage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: none;
+    width: 40%;
+}
+
+#chanmi {
+    font-family: 'Cormorant', serif;
+    font-size: 28pt;
+    color: black;
+    text-align: center;
+    line-height: 0;
+    margin: 50px 0 50px
+}
+#and {
+    font-family: 'Cormorant', serif;
+    font-size: 15pt;
+    color: black;
+    text-align: center;
+    line-height: 0;
+    width: 100%;
+    line-height: 0.1em;
+    margin: 10px 0 20px;
+    
+}
+#richard {
+    font-family: 'Cormorant', serif;
+    font-size: 28pt;
+    color: black;
+    text-align: center;
+    line-height: 0;
+    margin: 50px 0 100px;
+}
+
+.navbar a:hover{
+    background-color: white;
+}
+
+.navbar{
+    font-family: 'Cormorant', serif;
+    font-weight: 100;
+    overflow: hidden;
+    background-color: transparent;
+    position: static; 
+    text-align: center;
+
+    top: 0; 
+    width: 100%; 
+    z-index: 100;
+    font-size: 17px;
+    margin-bottom: 70px
+}
+
+.navbar a{
+    float: center;
+    display: inline;
+    color: black;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+.navbar a:hover{
+    background-color: whitesmoke;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+#please {
+    font-family: 'Nanum Myeongjo', serif;
+    font-size: 15pt;
+    color: black;
+    text-align: center;
+    line-height: 0;
+    margin: 50px 0 50px
+}
+
+#date {
+    font-family: 'Cormorant', serif;
+    font-size: 28pt;
+    color: black;
+    text-align: center;
+    line-height: 0;
+    margin: 50px 0 100px
+}
+
+.bottomimage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: none;
+    width: 40%;
+}
